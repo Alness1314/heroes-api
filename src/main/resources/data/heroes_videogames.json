@@ -1,0 +1,302 @@
+[
+  {
+    "name": "Link",
+    "nickname": "Duende Melodía",
+    "franchise": "The Legend of Zelda",
+    "companyOrigin": "Nintendo",
+    "debutGame": "The Legend of Zelda",
+    "yearDebut": 1985,
+    "notes": "Héroe elegido por las Diosas, portador de la Espada Maestra.",
+    "image": null
+  },
+  {
+    "name": "Mario",
+    "nickname": "El Fontanero",
+    "franchise": "Super Mario",
+    "companyOrigin": "Nintendo",
+    "debutGame": "Donkey Kong",
+    "yearDebut": 1981,
+    "notes": "Símbolo de Nintendo, salvador del Reino Champiñón.",
+    "image": null
+  },
+  {
+    "name": "Samus Aran",
+    "nickname": "Cazadora Galáctica",
+    "franchise": "Metroid",
+    "companyOrigin": "Nintendo",
+    "debutGame": "Metroid",
+    "yearDebut": 1986,
+    "notes": "Una de las primeras heroínas en videojuegos.",
+    "image": null
+  },
+  {
+    "name": "Donkey Kong",
+    "nickname": "Rey de la Jungla",
+    "franchise": "Donkey Kong",
+    "companyOrigin": "Nintendo",
+    "debutGame": "Donkey Kong",
+    "yearDebut": 1981,
+    "notes": "Icono clásico que pasó de villano a héroe.",
+    "image": null
+  },
+  {
+    "name": "Kirby",
+    "nickname": "Glotón Rosado",
+    "franchise": "Kirby",
+    "companyOrigin": "Nintendo",
+    "debutGame": "Kirby's Dream Land",
+    "yearDebut": 1992,
+    "notes": "Capaz de copiar habilidades de sus enemigos.",
+    "image": null
+  },
+  {
+    "name": "Fox McCloud",
+    "nickname": "Líder del Escuadrón Star Fox",
+    "franchise": "Star Fox",
+    "companyOrigin": "Nintendo",
+    "debutGame": "Star Fox",
+    "yearDebut": 1993,
+    "notes": "Piloto espacial experto.",
+    "image": null
+  },
+  {
+    "name": "Pikachu",
+    "nickname": "Ratón Eléctrico",
+    "franchise": "Pokémon",
+    "companyOrigin": "Nintendo",
+    "debutGame": "Pokémon Red and Blue",
+    "yearDebut": 1996,
+    "notes": "Pokémon más popular y mascota de la franquicia.",
+    "image": null
+  },
+  {
+    "name": "Captain Falcon",
+    "nickname": "Cazador de Recompensas",
+    "franchise": "F-Zero",
+    "companyOrigin": "Nintendo",
+    "debutGame": "F-Zero",
+    "yearDebut": 1990,
+    "notes": "Conocido por su movimiento 'Falcon Punch'.",
+    "image": null
+  },
+  {
+    "name": "Ness",
+    "nickname": "Niño Psíquico",
+    "franchise": "EarthBound",
+    "companyOrigin": "Nintendo",
+    "debutGame": "EarthBound",
+    "yearDebut": 1994,
+    "notes": "Usa poderes psíquicos para salvar el mundo.",
+    "image": null
+  },
+  {
+    "name": "Yoshi",
+    "nickname": "Dino Verde",
+    "franchise": "Super Mario",
+    "companyOrigin": "Nintendo",
+    "debutGame": "Super Mario World",
+    "yearDebut": 1990,
+    "notes": "Fiel compañero de Mario.",
+    "image": null
+  },
+  {
+    "name": "Kratos",
+    "nickname": "Fantasma de Esparta",
+    "franchise": "God of War",
+    "companyOrigin": "Sony",
+    "debutGame": "God of War",
+    "yearDebut": 2005,
+    "notes": "Guerrero espartano que desafía a los dioses.",
+    "image": null
+  },
+  {
+    "name": "Nathan Drake",
+    "nickname": "Cazador de Tesoros",
+    "franchise": "Uncharted",
+    "companyOrigin": "Sony",
+    "debutGame": "Uncharted: Drake's Fortune",
+    "yearDebut": 2007,
+    "notes": "Explorador moderno inspirado en Indiana Jones.",
+    "image": null
+  },
+  {
+    "name": "Ellie",
+    "nickname": "Sobreviviente",
+    "franchise": "The Last of Us",
+    "companyOrigin": "Sony",
+    "debutGame": "The Last of Us",
+    "yearDebut": 2013,
+    "notes": "Clave para la cura del cordyceps.",
+    "image": null
+  },
+  {
+    "name": "Aloy",
+    "nickname": "Cazadora Nora",
+    "franchise": "Horizon",
+    "companyOrigin": "Sony",
+    "debutGame": "Horizon Zero Dawn",
+    "yearDebut": 2017,
+    "notes": "Valiente heroína en un mundo de máquinas.",
+    "image": null
+  },
+  {
+    "name": "Jin Sakai",
+    "nickname": "El Fantasma",
+    "franchise": "Ghost of Tsushima",
+    "companyOrigin": "Sony",
+    "debutGame": "Ghost of Tsushima",
+    "yearDebut": 2020,
+    "notes": "Samurái que desafía el código del bushido.",
+    "image": null
+  },
+  {
+    "name": "Ratchet",
+    "nickname": "Lombax Mecánico",
+    "franchise": "Ratchet & Clank",
+    "companyOrigin": "Sony",
+    "debutGame": "Ratchet & Clank",
+    "yearDebut": 2002,
+    "notes": "Viaja por la galaxia arreglando problemas.",
+    "image": null
+  },
+  {
+    "name": "Sackboy",
+    "nickname": "Muñeco de Trapo",
+    "franchise": "LittleBigPlanet",
+    "companyOrigin": "Sony",
+    "debutGame": "LittleBigPlanet",
+    "yearDebut": 2008,
+    "notes": "Símbolo de la creatividad en los videojuegos.",
+    "image": null
+  },
+  {
+    "name": "Jak",
+    "nickname": "Héroe Renegado",
+    "franchise": "Jak and Daxter",
+    "companyOrigin": "Sony",
+    "debutGame": "Jak and Daxter",
+    "yearDebut": 2001,
+    "notes": "Protagonista de aventuras con humor y acción.",
+    "image": null
+  },
+  {
+    "name": "Cole MacGrath",
+    "nickname": "El Conductor",
+    "franchise": "inFAMOUS",
+    "companyOrigin": "Sony",
+    "debutGame": "inFAMOUS",
+    "yearDebut": 2009,
+    "notes": "Controla electricidad tras una explosión.",
+    "image": null
+  },
+  {
+    "name": "Deacon St. John",
+    "nickname": "Motociclista Errante",
+    "franchise": "Days Gone",
+    "companyOrigin": "Sony",
+    "debutGame": "Days Gone",
+    "yearDebut": 2019,
+    "notes": "Sobrevive en un mundo lleno de infectados.",
+    "image": null
+  },
+  {
+    "name": "Master Chief",
+    "nickname": "Jefe",
+    "franchise": "Halo",
+    "companyOrigin": "Microsoft",
+    "debutGame": "Halo: Combat Evolved",
+    "yearDebut": 2001,
+    "notes": "Súper soldado símbolo de Xbox.",
+    "image": null
+  },
+  {
+    "name": "Marcus Fenix",
+    "nickname": "Soldado de Gears",
+    "franchise": "Gears of War",
+    "companyOrigin": "Microsoft",
+    "debutGame": "Gears of War",
+    "yearDebut": 2006,
+    "notes": "Veterano de guerra contra los Locust.",
+    "image": null
+  },
+  {
+    "name": "Cortana",
+    "nickname": "IA Leal",
+    "franchise": "Halo",
+    "companyOrigin": "Microsoft",
+    "debutGame": "Halo: Combat Evolved",
+    "yearDebut": 2001,
+    "notes": "Asistente IA clave para el Jefe Maestro.",
+    "image": null
+  },
+  {
+    "name": "Joanna Dark",
+    "nickname": "Perfect Dark",
+    "franchise": "Perfect Dark",
+    "companyOrigin": "Microsoft",
+    "debutGame": "Perfect Dark",
+    "yearDebut": 2000,
+    "notes": "Agente secreta en un futuro distópico.",
+    "image": null
+  },
+  {
+    "name": "Kait Diaz",
+    "nickname": "Heredera Locust",
+    "franchise": "Gears of War",
+    "companyOrigin": "Microsoft",
+    "debutGame": "Gears of War 4",
+    "yearDebut": 2016,
+    "notes": "Conectada con el origen del enemigo.",
+    "image": null
+  },
+  {
+    "name": "Blinx",
+    "nickname": "Gato del Tiempo",
+    "franchise": "Blinx",
+    "companyOrigin": "Microsoft",
+    "debutGame": "Blinx: The Time Sweeper",
+    "yearDebut": 2002,
+    "notes": "Viaja en el tiempo para salvar mundos.",
+    "image": null
+  },
+  {
+    "name": "Voodoo Vince",
+    "nickname": "Muñeco Vudú",
+    "franchise": "Voodoo Vince",
+    "companyOrigin": "Microsoft",
+    "debutGame": "Voodoo Vince",
+    "yearDebut": 2003,
+    "notes": "Se daña a sí mismo para vencer enemigos.",
+    "image": null
+  },
+  {
+    "name": "ReCore",
+    "nickname": "Joule Adams",
+    "franchise": "ReCore",
+    "companyOrigin": "Microsoft",
+    "debutGame": "ReCore",
+    "yearDebut": 2016,
+    "notes": "Exploradora de un planeta desértico.",
+    "image": null
+  },
+  {
+    "name": "Arbiter",
+    "nickname": "Comandante Sangheili",
+    "franchise": "Halo",
+    "companyOrigin": "Microsoft",
+    "debutGame": "Halo 2",
+    "yearDebut": 2004,
+    "notes": "Aliado inesperado del Jefe Maestro.",
+    "image": null
+  },
+  {
+    "name": "Ori",
+    "nickname": "Espíritu del Bosque",
+    "franchise": "Ori and the Blind Forest",
+    "companyOrigin": "Microsoft",
+    "debutGame": "Ori and the Blind Forest",
+    "yearDebut": 2015,
+    "notes": "Criatura mágica que busca salvar su hogar.",
+    "image": null
+  }
+]
