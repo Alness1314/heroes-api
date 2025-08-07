@@ -46,8 +46,7 @@ public class HeroSpec implements Specification<Hero> {
     }
 
     private Specification<Hero> filterByName(String name) {
-        return (root, query, cb) -> cb.equal(root.<String>get("name"), name);
-
+        return (root, query, cb) -> cb.like(cb.lower(root.get("name")), name.toLowerCase() + "%");
     }
 
     private Specification<Hero> filterByCompany(String company) {
